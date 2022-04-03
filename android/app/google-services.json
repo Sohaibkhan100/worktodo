@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "661467631228",
+    "project_id": "worktodo-5a6fe",
+    "storage_bucket": "worktodo-5a6fe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:661467631228:android:acc106957b3d29a3d0c3f9",
+        "android_client_info": {
+          "package_name": "com.example.worktodo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "661467631228-ir17f0t1a1c1v3h0mlh3jrikian8c1mi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC00FYTq-qctm-JQ2Byna490rD8VFPnxAo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "661467631228-ir17f0t1a1c1v3h0mlh3jrikian8c1mi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
